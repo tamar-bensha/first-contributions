@@ -2,6 +2,7 @@
 # Contributors
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
+- tamar ben-shalom
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Lina Sundén](https://github.com/LinaSunden)
